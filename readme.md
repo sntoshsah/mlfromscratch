@@ -12,7 +12,7 @@ Minimal, readable implementations of machine learning algorithms written from fi
 
 1. Clone the repo
 ```bash
-git clone <repo-url>
+git clone https://github.com/sntoshsah/mlfromscratch.git
 cd mlFrmScratch
 ```
 
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 3. Run an example notebook or script
 ```bash
-python examples/train_linear_regression.py
+python code/lin_reg.py
 # or open notebooks in Jupyter:
 jupyter notebook
 ```
