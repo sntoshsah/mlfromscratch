@@ -49,3 +49,7 @@ Make sure you have the dataset variables (`X_data`, `y_data`, `X_test`, `y_test`
 - Add training features: batching, momentum, weight decay, multi-layer dense heads.
 - Improve numerical stability for softmax/cross-entropy.
 - Add unit tests for layer forward/backward implementations.
+
+
+## Test Result Visualization
+!["CNN Accuracy and Loss Graph"](../cnn_learning_curves.png)

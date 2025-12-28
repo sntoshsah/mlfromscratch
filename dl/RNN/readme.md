@@ -56,3 +56,6 @@ You can modify hyperparameters directly in `trainer.py`:
 - If training doesn't converge, try adjusting the learning rate or hidden size
 - Gradient clipping is applied to prevent exploding gradients
 - The model is intentionally simple for educational purposes
+
+## Test Result Visualization
+!["RNN Accuracy and Loss Graph"](../rnn_learning_curves.png)

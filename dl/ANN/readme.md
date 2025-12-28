@@ -68,3 +68,6 @@ You can modify hyperparameters directly in the file:
 ## Outputs
 - Console logs: epoch summaries showing training and testing accuracy and loss.
 - Plot: learning curves showing training vs testing accuracy and loss (via `visualize_learning_curves`).
+
+## Test Result Visualization
+!["ANN Accuracy and Loss Graph"](../ann_learning_curves.png)
