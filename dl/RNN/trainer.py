@@ -1,5 +1,5 @@
 from rnn import TinyRNN, cross_entropy_loss
-from datasetup import char_to_ix, ix_to_char, inputs, target_indices, vocab_size
+from datasetup import ix_to_char, inputs, target_indices, vocab_size
 import numpy as np
 from graph import visualizing_learning_curves
 
